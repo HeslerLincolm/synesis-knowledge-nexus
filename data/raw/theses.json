@@ -1,0 +1,34 @@
+[
+  {
+    "id": "T1",
+    "title": "Teoría de Aproximación Universal en Redes Neuronales: Fundamentos y Extensiones",
+    "abstract": "[DEMO_DATA] Estudio de los teoremas de aproximación universal y su extensión a arquitecturas profundas modernas, con énfasis en la caracterización matemática de la capacidad expresiva de las redes neuronales.",
+    "author_id": "R1",
+    "university_id": "U1",
+    "year": 2023
+  },
+  {
+    "id": "T2",
+    "title": "Modelos de Aprendizaje Profundo para el Diagnóstico de Enfermedad Renal Crónica",
+    "abstract": "[DEMO_DATA] Diseño y evaluación de modelos de deep learning para el diagnóstico temprano de enfermedad renal crónica a partir de datos clínicos e imágenes.",
+    "author_id": "R3",
+    "university_id": "U2",
+    "year": 2024
+  },
+  {
+    "id": "T3",
+    "title": "Visión por Computadora Aplicada a Imágenes Médicas Renales",
+    "abstract": "[DEMO_DATA] Desarrollo de algoritmos de visión por computadora para la segmentación y clasificación de estructuras renales en imágenes médicas.",
+    "author_id": "R5",
+    "university_id": "U3",
+    "year": 2023
+  },
+  {
+    "id": "T4",
+    "title": "Optimización Convexa en Problemas de Aprendizaje Automático",
+    "abstract": "[DEMO_DATA] Análisis de técnicas de optimización convexa aplicadas al entrenamiento de modelos de aprendizaje automático.",
+    "author_id": "R11",
+    "university_id": "U1",
+    "year": 2022
+  }
+]

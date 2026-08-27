@@ -1,0 +1,6 @@
+[
+  {"id": "C1", "name": "Modelamiento matemático de sistemas complejos", "subject_id": "S1"},
+  {"id": "C2", "name": "Diseño y entrenamiento de modelos de deep learning", "subject_id": "S2"},
+  {"id": "C3", "name": "Diagnóstico clínico de enfermedades renales", "subject_id": "S3"},
+  {"id": "C4", "name": "Procesamiento y análisis de imágenes médicas", "subject_id": "S4"}
+]

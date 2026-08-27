@@ -1,0 +1,9 @@
+[
+  {"id": "L1", "name": "Teoría de Aproximación Universal", "group_id": "G1"},
+  {"id": "L2", "name": "Optimización Matemática", "group_id": "G1"},
+  {"id": "L3", "name": "Deep Learning para Diagnóstico Renal", "group_id": "G2"},
+  {"id": "L4", "name": "Arquitecturas de Deep Learning", "group_id": "G2"},
+  {"id": "L5", "name": "Nefrología Clínica y Factores de Riesgo", "group_id": "G3"},
+  {"id": "L6", "name": "Visión por Computadora en Imágenes Médicas", "group_id": "G4"},
+  {"id": "L7", "name": "Bioestadística Aplicada", "group_id": "G5"}
+]

@@ -1,0 +1,6 @@
+[
+  {"id": "PG1", "name": "Programa de Matemática", "faculty_id": "F1"},
+  {"id": "PG2", "name": "Programa de Ingeniería de Sistemas", "faculty_id": "F2"},
+  {"id": "PG3", "name": "Programa de Medicina", "faculty_id": "F3"},
+  {"id": "PG4", "name": "Programa de Ciencia de la Computación", "faculty_id": "F4"}
+]

@@ -1,0 +1,6 @@
+[
+  {"id": "S1", "name": "Análisis Matemático Avanzado", "program_id": "PG1"},
+  {"id": "S2", "name": "Aprendizaje Automático", "program_id": "PG2"},
+  {"id": "S3", "name": "Nefrología Clínica", "program_id": "PG3"},
+  {"id": "S4", "name": "Visión por Computadora", "program_id": "PG4"}
+]

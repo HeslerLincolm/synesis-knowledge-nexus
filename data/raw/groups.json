@@ -1,0 +1,7 @@
+[
+  {"id": "G1", "name": "Grupo de Teoría de Aproximación", "faculty_id": "F1", "capability_ids": ["C1"]},
+  {"id": "G2", "name": "Grupo de IA aplicada a Nefrología", "faculty_id": "F2", "capability_ids": ["C2"]},
+  {"id": "G3", "name": "Grupo de Nefrología Clínica", "faculty_id": "F3", "capability_ids": ["C3"]},
+  {"id": "G4", "name": "Grupo de Visión Computacional Médica", "faculty_id": "F4", "capability_ids": ["C4"]},
+  {"id": "G5", "name": "Grupo de Bioestadística", "faculty_id": "F3", "capability_ids": []}
+]

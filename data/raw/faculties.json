@@ -1,0 +1,6 @@
+[
+  {"id": "F1", "name": "Facultad de Ciencias", "institution_id": "U1"},
+  {"id": "F2", "name": "Facultad de Ingeniería", "institution_id": "U2"},
+  {"id": "F3", "name": "Facultad de Ciencias de la Salud", "institution_id": "U2"},
+  {"id": "F4", "name": "Facultad de Ingeniería y Ciencias de la Computación", "institution_id": "U3"}
+]

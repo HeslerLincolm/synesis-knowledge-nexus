@@ -1,0 +1,26 @@
+[
+  {
+    "id": "D1",
+    "name": "Renal-CT-Peru",
+    "description": "[DEMO_DATA] Colección sintética de tomografías computarizadas renales anonimizadas, con etiquetas de diagnóstico.",
+    "used_by_project_ids": ["PR1", "PR5"]
+  },
+  {
+    "id": "D2",
+    "name": "MedImages-Segmentation",
+    "description": "[DEMO_DATA] Dataset sintético de imágenes médicas multi-especialidad con máscaras de segmentación.",
+    "used_by_project_ids": ["PR3"]
+  },
+  {
+    "id": "D3",
+    "name": "Biomarcadores-ERC",
+    "description": "[DEMO_DATA] Dataset sintético longitudinal de biomarcadores séricos de pacientes con enfermedad renal crónica.",
+    "used_by_project_ids": ["PR4"]
+  },
+  {
+    "id": "D4",
+    "name": "SyntheticFunctions-Approx",
+    "description": "[DEMO_DATA] Conjunto sintético de funciones matemáticas generadas para evaluar la capacidad de aproximación de arquitecturas de redes neuronales.",
+    "used_by_project_ids": ["PR2"]
+  }
+]

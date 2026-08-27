@@ -1,0 +1,8 @@
+[
+  {"id": "A1", "name": "Matemática Aplicada"},
+  {"id": "A2", "name": "Teoría de Aproximación y Redes Neuronales"},
+  {"id": "A3", "name": "Deep Learning en Medicina"},
+  {"id": "A4", "name": "Nefrología Computacional"},
+  {"id": "A5", "name": "Visión por Computadora"},
+  {"id": "A6", "name": "Bioestadística"}
+]

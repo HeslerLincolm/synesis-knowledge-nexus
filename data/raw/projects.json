@@ -1,0 +1,37 @@
+[
+  {
+    "id": "PR1",
+    "name": "NefroIA",
+    "description": "[DEMO_DATA] Sistema de apoyo diagnóstico para enfermedad renal crónica basado en deep learning sobre datos clínicos e imágenes.",
+    "researcher_ids": ["R3", "R4", "R7"],
+    "area_id": "A4"
+  },
+  {
+    "id": "PR2",
+    "name": "ApproxNet",
+    "description": "[DEMO_DATA] Estudio teórico y experimental de la capacidad de aproximación de arquitecturas profundas sobre funciones matemáticas sintéticas.",
+    "researcher_ids": ["R1", "R8"],
+    "area_id": "A2"
+  },
+  {
+    "id": "PR3",
+    "name": "VisMed",
+    "description": "[DEMO_DATA] Plataforma de segmentación automática de imágenes médicas para distintas especialidades.",
+    "researcher_ids": ["R5", "R10"],
+    "area_id": "A5"
+  },
+  {
+    "id": "PR4",
+    "name": "BioStat-Renal",
+    "description": "[DEMO_DATA] Modelos bioestadísticos para el seguimiento de biomarcadores en pacientes nefrológicos.",
+    "researcher_ids": ["R6", "R12"],
+    "area_id": "A6"
+  },
+  {
+    "id": "PR5",
+    "name": "MedGen",
+    "description": "[DEMO_DATA] Modelos generativos para la síntesis de imágenes médicas sintéticas de aumento de datos.",
+    "researcher_ids": ["R9", "R4"],
+    "area_id": "A3"
+  }
+]

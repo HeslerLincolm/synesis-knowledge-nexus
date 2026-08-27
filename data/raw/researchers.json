@@ -1,0 +1,122 @@
+[
+  {
+    "id": "R1",
+    "name": "Dra. Elena Rojas",
+    "university_id": "U1",
+    "research_areas": ["A1", "A2"],
+    "bio": "[DEMO_DATA] Matemática pura especializada en teoría de aproximación universal de redes neuronales profundas.",
+    "faculty_id": "F1",
+    "group_id": "G1",
+    "line_id": "L1"
+  },
+  {
+    "id": "R2",
+    "name": "Dr. Carlos Medina",
+    "university_id": "U1",
+    "research_areas": ["A1"],
+    "bio": "[DEMO_DATA] Matemático aplicado, optimización convexa.",
+    "faculty_id": "F1",
+    "group_id": "G1",
+    "line_id": "L2"
+  },
+  {
+    "id": "R3",
+    "name": "Dra. Sofia Vega",
+    "university_id": "U2",
+    "research_areas": ["A3", "A4"],
+    "bio": "[DEMO_DATA] Deep learning aplicado al diagnóstico de enfermedad renal crónica.",
+    "faculty_id": "F2",
+    "group_id": "G2",
+    "line_id": "L3"
+  },
+  {
+    "id": "R4",
+    "name": "Dr. Miguel Torres",
+    "university_id": "U2",
+    "research_areas": ["A3", "A4"],
+    "bio": "[DEMO_DATA] Modelos predictivos de progresión de enfermedad renal.",
+    "faculty_id": "F2",
+    "group_id": "G2",
+    "line_id": "L3"
+  },
+  {
+    "id": "R5",
+    "name": "Dra. Ana Paredes",
+    "university_id": "U3",
+    "research_areas": ["A5", "A3"],
+    "bio": "[DEMO_DATA] Visión por computadora aplicada a imágenes médicas.",
+    "faculty_id": "F4",
+    "group_id": "G4",
+    "line_id": "L6"
+  },
+  {
+    "id": "R6",
+    "name": "Dr. Luis Fernandez",
+    "university_id": "U3",
+    "research_areas": ["A6", "A3"],
+    "bio": "[DEMO_DATA] Bioestadística y ensayos clínicos.",
+    "faculty_id": "F3",
+    "group_id": "G5",
+    "line_id": "L7"
+  },
+  {
+    "id": "R7",
+    "name": "Dra. Carmen Ruiz",
+    "university_id": "U2",
+    "research_areas": ["A4"],
+    "bio": "[DEMO_DATA] Nefróloga clínica, factores de riesgo en enfermedad renal.",
+    "faculty_id": "F3",
+    "group_id": "G3",
+    "line_id": "L5"
+  },
+  {
+    "id": "R8",
+    "name": "Dr. Jorge Salinas",
+    "university_id": "U1",
+    "research_areas": ["A2"],
+    "bio": "[DEMO_DATA] Teoría de aproximación, funciones de activación.",
+    "faculty_id": "F1",
+    "group_id": "G1",
+    "line_id": "L1"
+  },
+  {
+    "id": "R9",
+    "name": "Dra. Patricia Leon",
+    "university_id": "U2",
+    "research_areas": ["A3"],
+    "bio": "[DEMO_DATA] Arquitecturas de deep learning para diagnóstico médico general.",
+    "faculty_id": "F2",
+    "group_id": "G2",
+    "line_id": "L4"
+  },
+  {
+    "id": "R10",
+    "name": "Dr. Ricardo Nunez",
+    "university_id": "U3",
+    "research_areas": ["A5"],
+    "bio": "[DEMO_DATA] Segmentación y detección de anomalías en imágenes médicas.",
+    "faculty_id": "F4",
+    "group_id": "G4",
+    "line_id": "L6"
+  },
+  {
+    "id": "R11",
+    "name": "Dra. Beatriz Campos",
+    "university_id": "U1",
+    "research_areas": ["A1"],
+    "bio": "[DEMO_DATA] Álgebra lineal aplicada a modelos de aprendizaje automático.",
+    "faculty_id": "F1",
+    "group_id": "G1",
+    "line_id": "L2"
+  },
+  {
+    "id": "R12",
+    "name": "Dr. Fernando Ortiz",
+    "university_id": "U2",
+    "research_areas": ["A4", "A6"],
+    "bio": "[DEMO_DATA] Biomarcadores y comorbilidades en enfermedad renal.",
+    "faculty_id": "F3",
+    "group_id": "G3",
+    "line_id": "L5"
+  }
+]

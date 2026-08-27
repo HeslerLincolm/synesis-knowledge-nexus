@@ -1,0 +1,162 @@
+[
+  {
+    "id": "P1",
+    "title": "Teoremas de aproximación universal para redes neuronales profundas",
+    "abstract": "[DEMO_DATA] Se estudian condiciones bajo las cuales una red neuronal feedforward puede aproximar cualquier función continua con precisión arbitraria, extendiendo resultados clásicos de aproximación universal a arquitecturas profundas.",
+    "author_ids": ["R1"],
+    "area_id": "A2",
+    "year": 2023
+  },
+  {
+    "id": "P2",
+    "title": "Cotas de aproximación para funciones continuas mediante perceptrones multicapa",
+    "abstract": "[DEMO_DATA] Se derivan cotas explícitas sobre el error de aproximación de perceptrones multicapa en función del número de neuronas y la regularidad de la función objetivo.",
+    "author_ids": ["R1", "R8"],
+    "area_id": "A2",
+    "year": 2022
+  },
+  {
+    "id": "P3",
+    "title": "Métodos variacionales en optimización matemática aplicada",
+    "abstract": "[DEMO_DATA] Se presentan técnicas variacionales para resolver problemas de optimización con restricciones, con aplicaciones a modelos de decisión.",
+    "author_ids": ["R2", "R11"],
+    "area_id": "A1",
+    "year": 2021
+  },
+  {
+    "id": "P4",
+    "title": "Deep learning para diagnóstico temprano de enfermedad renal crónica",
+    "abstract": "[DEMO_DATA] Se propone una arquitectura de red neuronal profunda entrenada sobre historiales clínicos e imágenes para detectar enfermedad renal crónica en etapas tempranas, aproximando la función de riesgo del paciente a partir de variables clínicas.",
+    "author_ids": ["R3", "R4"],
+    "area_id": "A4",
+    "year": 2024
+  },
+  {
+    "id": "P5",
+    "title": "Redes neuronales convolucionales en imágenes de tomografía renal",
+    "abstract": "[DEMO_DATA] Aplicación de CNN para la clasificación automática de anomalías en tomografías computarizadas de riñón.",
+    "author_ids": ["R3"],
+    "area_id": "A4",
+    "year": 2023
+  },
+  {
+    "id": "P6",
+    "title": "Predicción de progresión de enfermedad renal mediante aprendizaje profundo",
+    "abstract": "[DEMO_DATA] Modelo de deep learning que predice la velocidad de progresión de la enfermedad renal crónica a partir de biomarcadores longitudinales.",
+    "author_ids": ["R4", "R7"],
+    "area_id": "A4",
+    "year": 2024
+  },
+  {
+    "id": "P7",
+    "title": "Segmentación de imágenes médicas con visión por computadora",
+    "abstract": "[DEMO_DATA] Técnicas de segmentación semántica aplicadas a distintas modalidades de imágenes médicas.",
+    "author_ids": ["R5", "R10"],
+    "area_id": "A5",
+    "year": 2022
+  },
+  {
+    "id": "P8",
+    "title": "Transfer learning para clasificación de imágenes renales",
+    "abstract": "[DEMO_DATA] Uso de modelos preentrenados y ajuste fino para clasificar patologías renales en imágenes con datasets pequeños.",
+    "author_ids": ["R5"],
+    "area_id": "A4",
+    "year": 2023
+  },
+  {
+    "id": "P9",
+    "title": "Modelos bioestadísticos para ensayos clínicos nefrológicos",
+    "abstract": "[DEMO_DATA] Diseño de modelos estadísticos para el análisis de ensayos clínicos en pacientes con enfermedad renal.",
+    "author_ids": ["R6"],
+    "area_id": "A6",
+    "year": 2021
+  },
+  {
+    "id": "P10",
+    "title": "Análisis estadístico de biomarcadores en enfermedad renal",
+    "abstract": "[DEMO_DATA] Evaluación estadística de la asociación entre biomarcadores séricos y el deterioro de la función renal.",
+    "author_ids": ["R6", "R12"],
+    "area_id": "A6",
+    "year": 2022
+  },
+  {
+    "id": "P11",
+    "title": "Arquitecturas de deep learning para diagnóstico médico general",
+    "abstract": "[DEMO_DATA] Revisión comparativa de arquitecturas de redes profundas aplicadas al diagnóstico asistido por computadora en distintas especialidades médicas.",
+    "author_ids": ["R9"],
+    "area_id": "A3",
+    "year": 2023
+  },
+  {
+    "id": "P12",
+    "title": "Factores de riesgo en enfermedad renal crónica: estudio longitudinal",
+    "abstract": "[DEMO_DATA] Estudio de cohorte que identifica factores de riesgo asociados al desarrollo de enfermedad renal crónica en población peruana.",
+    "author_ids": ["R7", "R12"],
+    "area_id": "A4",
+    "year": 2021
+  },
+  {
+    "id": "P13",
+    "title": "Fundamentos matemáticos de la optimización convexa",
+    "abstract": "[DEMO_DATA] Introducción a los fundamentos teóricos de la optimización convexa y sus aplicaciones en aprendizaje automático.",
+    "author_ids": ["R2"],
+    "area_id": "A1",
+    "year": 2020
+  },
+  {
+    "id": "P14",
+    "title": "Universal approximation con funciones de activación ReLU",
+    "abstract": "[DEMO_DATA] Se demuestra la propiedad de aproximación universal para redes profundas que usan funciones de activación ReLU, mejorando cotas previas de profundidad y ancho.",
+    "author_ids": ["R8"],
+    "area_id": "A2",
+    "year": 2022
+  },
+  {
+    "id": "P15",
+    "title": "Detección de anomalías en imágenes médicas mediante CNN",
+    "abstract": "[DEMO_DATA] Sistema de detección no supervisada de anomalías en imágenes médicas usando redes convolucionales.",
+    "author_ids": ["R10"],
+    "area_id": "A5",
+    "year": 2023
+  },
+  {
+    "id": "P16",
+    "title": "Fusión de datos multimodales para diagnóstico renal asistido por IA",
+    "abstract": "[DEMO_DATA] Combinación de imágenes y datos clínicos tabulares mediante redes profundas multimodales para mejorar el diagnóstico de enfermedad renal.",
+    "author_ids": ["R3", "R5"],
+    "area_id": "A4",
+    "year": 2024
+  },
+  {
+    "id": "P17",
+    "title": "Aplicaciones de álgebra lineal en modelos de aprendizaje automático",
+    "abstract": "[DEMO_DATA] Revisión de conceptos de álgebra lineal fundamentales para entender el funcionamiento interno de modelos de aprendizaje automático.",
+    "author_ids": ["R11"],
+    "area_id": "A1",
+    "year": 2021
+  },
+  {
+    "id": "P18",
+    "title": "Modelos generativos aplicados a imágenes médicas",
+    "abstract": "[DEMO_DATA] Uso de modelos generativos para la síntesis de imágenes médicas sintéticas con fines de aumento de datos.",
+    "author_ids": ["R9", "R4"],
+    "area_id": "A3",
+    "year": 2023
+  },
+  {
+    "id": "P19",
+    "title": "Capacidad expresiva de redes neuronales profundas: revisión teórica",
+    "abstract": "[DEMO_DATA] Revisión de resultados teóricos sobre la capacidad expresiva de arquitecturas profundas para aproximar funciones complejas de alta dimensión, relevantes para tareas de predicción y diagnóstico basadas en datos.",
+    "author_ids": ["R1"],
+    "area_id": "A2",
+    "year": 2024
+  },
+  {
+    "id": "P20",
+    "title": "Impacto de comorbilidades en pacientes con enfermedad renal",
+    "abstract": "[DEMO_DATA] Análisis del efecto de comorbilidades comunes sobre el pronóstico de pacientes con enfermedad renal crónica.",
+    "author_ids": ["R12"],
+    "area_id": "A4",
+    "year": 2022
+  }
+]
