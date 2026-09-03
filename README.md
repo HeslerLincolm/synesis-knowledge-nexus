@@ -1,4 +1,4 @@
-# Equipo SaberLink: Academic Knowledge Discovery
+# synesis: Academic Knowledge Discovery
 
 Sistema que no solo recupera información académica, sino que **descubre y explica
 conexiones** entre piezas de conocimiento institucional, incluyendo conexiones
